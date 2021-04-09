@@ -1,0 +1,54 @@
+/*  
+    Recommeded CSS
+    ==============
+*/
+
+.panel {
+    position: fixed;
+    left: -15.625em; /*or width of your navigation panel*/
+    width: 15.625em; /*should match the above value*/
+}
+
+/*  
+    Demo Specific Styles
+    ====================
+*/
+
+body {
+    /*font-family: 'Source Sans Pro', sans-serif;*/
+    /*color: #101820;*/
+    /*line-height: 1.5;*/
+}
+
+.wrap {
+    position: fixed;
+    z-index: 99;
+    right: 0;
+    /*max-width: 80%;*/
+    /*margin: 0 auto;*/
+    /*padding: 20px;*/
+}
+
+.panel {
+    background: #fff;
+    z-index: 99999;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    border: none;
+}
+
+
+.overally {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 991;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.refresh-page .overally {
+    position: static;
+}

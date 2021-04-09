@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'iCiel Nabila';
+    src: url('iCielNabila.eot');
+    src: url('iCielNabila.eot?#iefix') format('embedded-opentype'),
+        url('iCielNabila.woff2') format('woff2'),
+        url('iCielNabila.woff') format('woff'),
+        url('iCielNabila.ttf') format('truetype'),
+        url('iCielNabila.svg#iCielNabila') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

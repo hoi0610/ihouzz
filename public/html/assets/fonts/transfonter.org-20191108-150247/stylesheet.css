@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'iCiel Smoothy Sans';
+    src: url('iCielSmoothy-Sans.eot');
+    src: url('iCielSmoothy-Sans.eot?#iefix') format('embedded-opentype'),
+        url('iCielSmoothy-Sans.woff2') format('woff2'),
+        url('iCielSmoothy-Sans.woff') format('woff'),
+        url('iCielSmoothy-Sans.ttf') format('truetype'),
+        url('iCielSmoothy-Sans.svg#iCielSmoothy-Sans') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
